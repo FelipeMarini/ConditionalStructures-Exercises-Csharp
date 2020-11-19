@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\bin\Debug\netcoreapp3.1\Ex-Desafio1-C#.exe
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\bin\Debug\netcoreapp3.1\Ex-Desafio1-C#.deps.json
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\bin\Debug\netcoreapp3.1\Ex-Desafio1-C#.runtimeconfig.json
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\bin\Debug\netcoreapp3.1\Ex-Desafio1-C#.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\bin\Debug\netcoreapp3.1\Ex-Desafio1-C#.dll
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\bin\Debug\netcoreapp3.1\Ex-Desafio1-C#.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\obj\Debug\netcoreapp3.1\Ex-Desafio1-C#.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\obj\Debug\netcoreapp3.1\Ex-Desafio1-C#.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\obj\Debug\netcoreapp3.1\Ex-Desafio1-C#.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\obj\Debug\netcoreapp3.1\Ex-Desafio1-C#.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\obj\Debug\netcoreapp3.1\Ex-Desafio1-C#.dll
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\obj\Debug\netcoreapp3.1\Ex-Desafio1-C#.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex-Desafio1-C#\obj\Debug\netcoreapp3.1\Ex-Desafio1-C#.genruntimeconfig.cache

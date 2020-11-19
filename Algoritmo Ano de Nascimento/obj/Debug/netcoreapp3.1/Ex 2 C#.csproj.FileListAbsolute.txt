@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\bin\Debug\netcoreapp3.1\Ex 2 C#.exe
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\bin\Debug\netcoreapp3.1\Ex 2 C#.deps.json
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\bin\Debug\netcoreapp3.1\Ex 2 C#.runtimeconfig.json
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\bin\Debug\netcoreapp3.1\Ex 2 C#.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\bin\Debug\netcoreapp3.1\Ex 2 C#.dll
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\bin\Debug\netcoreapp3.1\Ex 2 C#.pdb
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\obj\Debug\netcoreapp3.1\Ex 2 C#.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\obj\Debug\netcoreapp3.1\Ex 2 C#.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\obj\Debug\netcoreapp3.1\Ex 2 C#.AssemblyInfo.cs
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\obj\Debug\netcoreapp3.1\Ex 2 C#.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\obj\Debug\netcoreapp3.1\Ex 2 C#.dll
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\obj\Debug\netcoreapp3.1\Ex 2 C#.pdb
+C:\Users\dev\Desktop\Projects-Csharp\Ex 2 C#\obj\Debug\netcoreapp3.1\Ex 2 C#.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\obj\Debug\netcoreapp3.1\Projeto-Soma.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\obj\Debug\netcoreapp3.1\Projeto-Soma.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\obj\Debug\netcoreapp3.1\Projeto-Soma.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\obj\Debug\netcoreapp3.1\Projeto-Soma.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\bin\Debug\netcoreapp3.1\Projeto-Soma.exe
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\bin\Debug\netcoreapp3.1\Projeto-Soma.deps.json
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\bin\Debug\netcoreapp3.1\Projeto-Soma.runtimeconfig.json
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\bin\Debug\netcoreapp3.1\Projeto-Soma.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\bin\Debug\netcoreapp3.1\Projeto-Soma.dll
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\bin\Debug\netcoreapp3.1\Projeto-Soma.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\obj\Debug\netcoreapp3.1\Projeto-Soma.dll
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\obj\Debug\netcoreapp3.1\Projeto-Soma.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Projeto-Soma\obj\Debug\netcoreapp3.1\Projeto-Soma.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\bin\Debug\netcoreapp3.1\Ex 3 C#.exe
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\bin\Debug\netcoreapp3.1\Ex 3 C#.deps.json
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\bin\Debug\netcoreapp3.1\Ex 3 C#.runtimeconfig.json
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\bin\Debug\netcoreapp3.1\Ex 3 C#.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\bin\Debug\netcoreapp3.1\Ex 3 C#.dll
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\bin\Debug\netcoreapp3.1\Ex 3 C#.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\obj\Debug\netcoreapp3.1\Ex 3 C#.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\obj\Debug\netcoreapp3.1\Ex 3 C#.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\obj\Debug\netcoreapp3.1\Ex 3 C#.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\obj\Debug\netcoreapp3.1\Ex 3 C#.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\obj\Debug\netcoreapp3.1\Ex 3 C#.dll
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\obj\Debug\netcoreapp3.1\Ex 3 C#.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Projects-Csharp\Ex 3 C#\obj\Debug\netcoreapp3.1\Ex 3 C#.genruntimeconfig.cache
